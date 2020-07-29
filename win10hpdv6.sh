@@ -6,6 +6,8 @@
 # Buenos Aires, Argentina
 # 2019-2020 CC
 
+# pd: suelo autocomentarme en ingles por comodidad
+
 #JULIO 2020: Se agregaron parte del software faltante
 host='ftp.hp.com'
 USER=''
